@@ -1,7 +1,7 @@
 package com.mycompany.app;
 
 /**
- * HELLO JAVA!
+ This is my first program in maven....
  *
  */
 public class App 
